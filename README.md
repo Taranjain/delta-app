@@ -1,2 +1,2 @@
 # delta-app
-apna college demo app
+apna college demo app.
